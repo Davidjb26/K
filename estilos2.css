@@ -1,0 +1,81 @@
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: ;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    display: block
+
+}
+
+body {
+    text-align: center;
+ background-color: yellow;
+}
+
+.agrupar {
+    background-color:darkcyan ;
+    width: 960px ;
+    margin: auto;
+  
+    
+}
+.header {
+    background-color: red;
+}
+.menu {
+    background-color:rgb(0, 81, 255) ;
+    padding: 5px;
+    text-align: left;
+}
+.menu li {
+    list-style: none;
+    padding: 5px;
+    display: inline;
+    border: 1px solid black;
+    font: bold 14px verdana;
+}
+.seccion {
+    margin: 20px;
+    width: 600px;    
+    float: left;
+
+}
+.article {
+    background-color: burlywood;
+    border: 1px solid gray;
+    margin-bottom: 15px;
+}
+.article footer {
+    text-align: right;
+}
+.columna { 
+    width: 300px;
+    float: left;
+    margin: 20px;
+   
+
+
+}
+.columna blockquote {
+    border: 1px solid burlywood;
+    padding: 40px;
+    background: burlywood;
+    margin-bottom: 20px;
+}
+.pie {
+    clear: both;
+    padding: 20px;
+    background:red;
+    color: white;
+}
+img {
+    width:500px ;
+}
+
